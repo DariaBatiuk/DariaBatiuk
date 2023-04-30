@@ -40,7 +40,7 @@ I am a motivated front-end developer with expertise in developing and maintainin
 " target="_blank"><img src="https://user-images.githubusercontent.com/83068010/235370006-df6e014d-35e6-49e9-a9ce-7a6e3939bf39.png" alt="Social Network MongoDB" width="150" height="100" border="10" /> 
 alt="Social Network MongoDB" width="150" height="100" border="10" /></a> + 
 <a href="https://drive.google.com/file/d/18YBc6ql7MjbI-fXwJlFOmJsPOEU3x5Rv/view
-" target="_blank"><img src="![image](https://user-images.githubusercontent.com/83068010/235370658-0a04ff1a-0192-4fd2-94dd-8e2ba0b6d2db.png)" 
+" target="_blank"><img src="https://user-images.githubusercontent.com/83068010/235370658-0a04ff1a-0192-4fd2-94dd-8e2ba0b6d2db.png" alt="E-commerce Back End" width="150" height="100" border="10"  
 alt="E-commerce Back End" width="150" height="100" border="10" /></a> + 
 <a href="https://drive.google.com/file/d/1Jf8_Qis1a2BVqUoDplDmnrqwrarBlxy_/view
 " target="_blank"><img src="![image](https://user-images.githubusercontent.com/83068010/235370716-b54592f2-8a45-4302-92c2-8dc55d853b94.png)" 
