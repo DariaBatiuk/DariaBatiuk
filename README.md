@@ -31,6 +31,7 @@ I am a motivated front-end developer with expertise in developing and maintainin
 
 ## Check out my recent projects:
 [GreenSock animation project](https://dariabatiuk.github.io/GreenSock-animation-project/) | 
+[Animated Solar System](https://dariabatiuk.github.io/Solar-system/) | 
 [Note taker ](https://note-taker-app2.herokuapp.com/) |
 [Password Generatorr ](https://dariabatiuk.github.io/Password-Generator-on-JS/) |
 
