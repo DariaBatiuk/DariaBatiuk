@@ -4,7 +4,7 @@ I am a motivated front-end developer with expertise in developing and maintainin
 
 - 🌱  I’m currently learning React Native and TypeScript.
 - 💬  Ask me anything about full stack web development.
-- ⚡  Fun fact: I can't ride  I can't ride a bike.
+- ⚡  Fun fact: I can't ride a bike.
 
 ## Skills and Technologies:
 <!-- https://github.com/Ileriayo/markdown-badges -->
