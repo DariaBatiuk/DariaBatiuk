@@ -33,7 +33,10 @@ I am a motivated front-end developer with expertise in developing and maintainin
 [GreenSock animation project](https://dariabatiuk.github.io/GreenSock-animation-project/) | 
 [Animated Solar System](https://dariabatiuk.github.io/Solar-system/) | 
 [Note taker ](https://note-taker-app2.herokuapp.com/) |
-[Password Generatorr ](https://dariabatiuk.github.io/Password-Generator-on-JS/) |
+[Password Generator ](https://dariabatiuk.github.io/Password-Generator-on-JS/) |
+[Food Ordering App ](food-ordering-app-rust.vercel.app) |
+[Current Weather App ](weather-app-dariabatiuk.vercel.app) |
+
 
 
 ## My Other Projects' Demo Videos:
