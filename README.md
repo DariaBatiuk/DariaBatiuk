@@ -51,6 +51,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Dariabatiuk)
 
+### 🔥 My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=DariaBatiuk&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaBatiuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contact or follow me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/DariaBatiuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/daria-batiuk/)   
